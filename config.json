@@ -1,11 +1,11 @@
 {
     "wallet": {
-        "addressKeyName": "test",
-        "addressRestoreMnemonic": "",
+        "addressKeyName": "testkey",
+        "addressRestoreMnemonic": "danger donkey rare nose trick wrist speak twist else rescue recall decrease guitar verb bundle grief crash noise erosion letter powder square state rebel",
         "alloraHomeDir": "",
         "gas": "1000000",
         "gasAdjustment": 1.0,
-        "nodeRpc": "http://localhost:26657",
+        "nodeRpc": "https://rpc.ankr.com/allora_testnet",
         "maxRetries": 1,
         "delay": 1,
         "submitTx": false
